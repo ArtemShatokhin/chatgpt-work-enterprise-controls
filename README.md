@@ -55,3 +55,7 @@ The 2023 post predates Work, and the matrix labels those rows. Where one of the 
 ## Adding a control
 
 Open an issue with the control, the OpenAI URL, and the sentence exactly as that page writes it. If the page does not document the control, say so in the issue and leave the row out. A row's job is to survive the check, and an invented cell fails the moment someone opens the link.
+
+## The three questions a reviewer asks
+
+The rows above answer one control at a time. Three site pages take the same material and stop at the decision. [ChatGPT Work audit log](https://chatgptworkalternative.com/chatgpt-work-audit-log) covers what the log records, who can read it, and what the plan gate leaves out. [ChatGPT Work seats](https://chatgptworkalternative.com/chatgpt-work-seats) works through seat-based pricing against a per-hour system when half the seats sit idle. [ChatGPT Work vs ChatGPT Enterprise](https://chatgptworkalternative.com/chatgpt-work-vs-chatgpt-enterprise) keeps the two OpenAI products apart, because most of the confusion in a review comes from comparing Work against a plan it does not ship in.
